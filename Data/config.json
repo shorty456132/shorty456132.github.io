@@ -2,14 +2,16 @@
     "Sources": [{
         "id": 0,
         "Name": "Table Top - Front",
-        "input": 1,
-        "EncoderIP": "192.168.1.44"
+        "Layer": "Layer 1"
+        // "input": 1,
+        // "EncoderIP": "192.168.1.44"
     },
     {
         "id": 1,
         "Name": "Wall Plate",
-        "input": 3,
-        "EncoderIP": "192.168.1.45"
+        "Layer": "Layer 3"
+        // "input": 3,
+        // "EncoderIP": "192.168.1.45"
     }
     ],
     "Destinations": [{
