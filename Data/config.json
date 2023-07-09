@@ -1,12 +1,12 @@
 {
     "Sources": [{
         "id": 0,
-        "Name": "Table Top - Front",
+        "Name": "BYOM",
         "Layer": "Camera"
     },
     {
         "id": 1,
-        "Name": "Wall Plate",
+        "Name": "Bluetooth",
         "Layer": "Audio"
     },
     {
@@ -16,7 +16,7 @@
     },
     {
         "id":3,
-        "Name": "NoControls",
+        "Name": "Table HDMI",
         "Layer": "NoControls"
     }],
     "Destinations": [{
