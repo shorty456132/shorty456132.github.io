@@ -7,7 +7,7 @@
     {
         "id": 1,
         "Name": "Wall Plate",
-        "Layer": "NoControls"
+        "Layer": "Audio"
     },
     {
         "id": 2,
