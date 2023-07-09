@@ -3,15 +3,11 @@
         "id": 0,
         "Name": "Table Top - Front",
         "Layer": "Layer 1"
-        // "input": 1,
-        // "EncoderIP": "192.168.1.44"
     },
     {
         "id": 1,
         "Name": "Wall Plate",
         "Layer": "Layer 3"
-        // "input": 3,
-        // "EncoderIP": "192.168.1.45"
     }
     ],
     "Destinations": [{
