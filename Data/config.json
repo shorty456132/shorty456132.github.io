@@ -12,7 +12,7 @@
     {
         "id": 2,
         "Name": "Conference",
-        "Layer": "Audio"
+        "Layer": "Zoom"
     }],
     "Destinations": [{
         "id": 0,
