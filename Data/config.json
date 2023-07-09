@@ -2,14 +2,18 @@
     "Sources": [{
         "id": 0,
         "Name": "Table Top - Front",
-        "Layer": "Layer 1"
+        "Layer": "NoControls"
     },
     {
         "id": 1,
         "Name": "Wall Plate",
-        "Layer": "Layer 3"
-    }
-    ],
+        "Layer": "Camera"
+    },
+    {
+        "id": 2,
+        "Name": "Conference",
+        "Layer": "Zoom"
+    }],
     "Destinations": [{
         "id": 0,
         "Name": "Dest 1",
