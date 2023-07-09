@@ -1,0 +1,14 @@
+{
+    "Sources": [{
+        "id": 0,
+        "Name": "name1",
+        "input": 1,
+        "EncoderIP": "192.168.1.45"
+    }],
+    "Destinations": [{
+        "id": 0,
+        "Name": "Dest 1",
+        "Output": 1,
+        "DecoderIP": "192.168.1.46"
+    }]
+}
