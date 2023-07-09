@@ -2,12 +2,12 @@
     "Sources": [{
         "id": 0,
         "Name": "Table Top - Front",
-        "Layer": "NoControls"
+        "Layer": "Camera"
     },
     {
         "id": 1,
         "Name": "Wall Plate",
-        "Layer": "Camera"
+        "Layer": "NoControls"
     },
     {
         "id": 2,
