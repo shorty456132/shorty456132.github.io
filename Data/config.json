@@ -3,8 +3,15 @@
         "id": 0,
         "Name": "name1",
         "input": 1,
+        "EncoderIP": "192.168.1.44"
+    },
+    {
+        "id": 1,
+        "Name": "name2",
+        "input": 3,
         "EncoderIP": "192.168.1.45"
-    }],
+    }
+    ],
     "Destinations": [{
         "id": 0,
         "Name": "Dest 1",
