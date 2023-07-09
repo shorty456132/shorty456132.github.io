@@ -16,7 +16,8 @@
     },
     {
         "id":3,
-        "Name": "NoControls"
+        "Name": "NoControls",
+        "Layer": "NoControls"
     }],
     "Destinations": [{
         "id": 0,
