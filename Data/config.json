@@ -2,7 +2,7 @@
     "Sources": [{
         "id": 0,
         "Name": "BYOM",
-        "Layer": "Camera"
+        "Layer": "NoControls"
     },
     {
         "id": 1,
